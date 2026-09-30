@@ -14,7 +14,7 @@ At the moment, I am working as a Data Analyst while continuing my studies in Dat
 
 I believe good technology should solve a real problem. That's the approach I try to bring to every project I work on — from a small website to a complete business management system.
 
-Below you'll find some of the technologies I work with, projects I've built, my professional experience, and the places where you can connect with me.
+Below you'll find the places where you can connect with me.
 
 🤝 Let's Connect
 
