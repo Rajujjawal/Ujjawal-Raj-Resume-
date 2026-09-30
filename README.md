@@ -1,7 +1,7 @@
 👋 Hi, I'm Ujjawal Raj
 
 Full Stack Web Developer • Data Analyst • AI & Automation Enthusiast
-
+ 
 Hello and welcome to my GitHub profile.
 
 I'm Ujjawal Raj, a Full Stack Web Developer and Data Analyst based in Noida, India. Over the past 3+ years, I've worked on websites, web applications, business systems, dashboards, and automation workflows for clients across different industries.
