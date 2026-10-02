@@ -18,7 +18,7 @@ Below you'll find the places where you can connect with me.
 
 🤝 Let's Connect
 
-📧 Email: ujjujassu07@gmail.com
+📧 Email: ujjujassu07@gmail.com | rajujjawal2003@gmail.com
 
 🌐 Odoo: ujjawal1.odoo.com
 
@@ -29,8 +29,6 @@ Profile
 linkedin.com/in/ujjawalraj2715
 
 💻 GitHub: github.com/Rajuujjawal
-
-🧩 LeetCode: LeetCode Profile
 
 🚀 Open to Opportunities
 
